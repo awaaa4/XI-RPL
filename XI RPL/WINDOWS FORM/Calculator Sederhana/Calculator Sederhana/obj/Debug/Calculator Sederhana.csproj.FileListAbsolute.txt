@@ -1,0 +1,20 @@
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\bin\Debug\Calculator Sederhana.exe.config
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\bin\Debug\Calculator Sederhana.exe
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\bin\Debug\Calculator Sederhana.pdb
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.csproj.AssemblyReference.cache
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator_Sederhana.Form1.resources
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator_Sederhana.Properties.Resources.resources
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.csproj.GenerateResource.cache
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.exe
+C:\Users\fafaf\Documents\XI RPL\DASAR\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.pdb
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\bin\Debug\Calculator Sederhana.exe.config
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\bin\Debug\Calculator Sederhana.exe
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\bin\Debug\Calculator Sederhana.pdb
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.csproj.AssemblyReference.cache
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator_Sederhana.Form1.resources
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator_Sederhana.Properties.Resources.resources
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.csproj.GenerateResource.cache
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.exe
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.pdb

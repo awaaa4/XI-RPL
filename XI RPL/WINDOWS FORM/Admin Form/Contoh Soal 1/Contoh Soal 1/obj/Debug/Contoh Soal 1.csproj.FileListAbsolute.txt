@@ -1,0 +1,12 @@
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\bin\Debug\Contoh Soal 1.exe.config
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\bin\Debug\Contoh Soal 1.exe
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\bin\Debug\Contoh Soal 1.pdb
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh Soal 1.csproj.AssemblyReference.cache
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form1Login.resources
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form2Register.resources
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form3Dashboard.resources
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Properties.Resources.resources
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh Soal 1.csproj.GenerateResource.cache
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh Soal 1.csproj.CoreCompileInputs.cache
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh Soal 1.exe
+C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh Soal 1.pdb
