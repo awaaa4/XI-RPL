@@ -12,14 +12,59 @@ namespace Contoh_Soal_1
 {
     public partial class Form4Bandara : Form
     {
-        public Form4Bandara()
-        {
-            InitializeComponent();
-        }
+        BandaraEntities db = new BandaraEntities(); // membuat koneksi ke database
+        private int idBandara = -1; // menyimpan id bandara yang sedang diedit
+                                    // (-1 mode tambah, jika > 0 mode update)
 
         private void Form4Bandara_Load(object sender, EventArgs e)
         {
+            LoadNegara(); // menampilkan daftar negara ke combobox
+            LoadBandara(); // menampilkan semua data bandara ke dalam dataGridView
 
+            dataGridBandara.AutoGenerateColumns = false;
+            dataGridBandara.AllowUserToAddRows = false;
+            dataGridBandara.ReadOnly = true;
+        }
+
+        private void LoadNegara()
+        {
+            countryBox.DataSource = db.Negaras.OrderBy(n => n.Nama).ToList();
+            countryBox.DisplayMember = "Nama";
+            countryBox.ValueMember = "ID";
+            countryBox.SelectedIndex = -1;
+        }
+
+        private void LoadBandara()
+        {
+            dataGridBandara.DataSource = db.Bandaras.Include("Negara") // Include() mengambil data dari
+            .OrderBy(b => b.Nama) // urutkan berdasarkan nama, dari
+            .Select(b => new // select() memilih kolom yang akan
+            {
+                b.ID,
+                b.Nama,
+                b.KodeIATA,
+                b.Kota,
+                Negara = b.Negara.Nama,
+                b.JumlahTerminal,
+                b.Alamat,
+            }).ToList();
+        }
+
+        private void ResetForm()
+        {
+            nameTxt.Clear();
+            iataTxt.Clear();
+            cityTxt.Clear();
+            addressTxt.Clear();
+            countryBox.SelectedIndex = -1;
+            terminalCount.Value = 1;
+            idBandara = -1; // kembali ke mode tambah data
+            saveBtn.Text = "Simpan";
+        }
+
+        public Form4Bandara()
+        {
+            InitializeComponent();
         }
 
         private void label10_Click(object sender, EventArgs e)
@@ -53,6 +98,20 @@ namespace Contoh_Soal_1
         {
             Form3Dashboard dashboardForm = new Form3Dashboard();
             dashboardForm.Show();
+            this.Close();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            Form4Bandara bandaraForm = new Form4Bandara();
+            bandaraForm.Show();
+            this.Close();
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            Form4Bandara bandaraForm = new Form4Bandara();
+            bandaraForm.Show();
             this.Close();
         }
 
@@ -112,9 +171,152 @@ namespace Contoh_Soal_1
             this.Close();
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void pictureBox8_Click(object sender, EventArgs e)
         {
+            Form1Login loginForm = new Form1Login();
+            loginForm.Show();
+            this.Close();
+        }
 
+        private void label7_Click(object sender, EventArgs e)
+        {
+            Form1Login loginForm = new Form1Login();
+            loginForm.Show();
+            this.Close();
+        }
+
+        private void saveBtn_Click(object sender, EventArgs e)
+        {
+            if (nameTxt.Text == "" || iataTxt.Text == "" ||
+            cityTxt.Text == "" || addressTxt.Text == "" || countryBox.SelectedIndex == -1)
+            {
+                MessageBox.Show("Semua data harus diisi!");
+                return;
+            }
+
+            // validasi panjang kode IATA
+            if (iataTxt.Text.Length != 3)
+            {
+                MessageBox.Show("Kode IATA wajib memiliki 3 huruf!");
+                return;
+            }
+
+            // semua karakter IATA harus berupa huruf
+            if (!iataTxt.Text.All(char.IsLetter)) // All() mengecek semua karakter
+            {
+                MessageBox.Show("Kode IATA hanya boleh huruf!");
+                return;
+            }
+
+            // validasi IATA tidak boleh sama
+            bool adaIATA = db.Bandaras.Any(b => b.KodeIATA == iataTxt.Text
+            && b.ID != idBandara);
+
+            if (adaIATA)
+            {
+                MessageBox.Show("Kode IATA sudah digunakan!");
+                return;
+            }
+
+            // validasi jumlah terminal (minimal 1 terminal)
+            if (terminalCount.Value < 1)
+            {
+                MessageBox.Show("Jumlah terminal minimal 1");
+                return;
+            }
+
+            // validasi nama bandara harus unik
+            bool adaBandara = db.Bandaras.Any(b => b.Nama.ToLower() == nameTxt.Text.ToLower()
+            && b.ID != idBandara);
+
+            if (adaBandara)
+            {
+                MessageBox.Show("Nama bandara sudah dipakai!");
+                return;
+            }
+
+            // percabangan edit atau add data
+            if (idBandara == -1) // add data
+            {
+                // membuat object bandara baru
+                Bandara bandara = new Bandara();
+                bandara.Nama = nameTxt.Text;
+                bandara.KodeIATA = iataTxt.Text;
+                bandara.Kota = cityTxt.Text;
+                bandara.NegaraID = Convert.ToInt32(countryBox.SelectedValue);
+                bandara.JumlahTerminal = Convert.ToInt32(terminalCount.Value);
+                bandara.Alamat = addressTxt.Text;
+
+                db.Bandaras.Add(bandara);
+                MessageBox.Show("Data berhasil ditambahkan!");
+            }
+            else // edit
+            {
+                Bandara editBandara = db.Bandaras.Find(idBandara);
+                editBandara.Nama = nameTxt.Text;
+                editBandara.KodeIATA = iataTxt.Text;
+                editBandara.Kota = cityTxt.Text;
+                editBandara.NegaraID = Convert.ToInt32(countryBox.SelectedValue);
+                editBandara.JumlahTerminal = Convert.ToInt32(terminalCount.Value);
+                editBandara.Alamat = addressTxt.Text;
+
+                MessageBox.Show("Data berhasil diedit!");
+            }
+
+            db.SaveChanges();
+
+            LoadBandara();
+            ResetForm();
+        }
+
+        private void dataGridBandara_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex < 0) // error handling agar bukan
+                                // header yang diklik
+            {
+                return;
+            }
+
+            // edit and delete
+            if (dataGridBandara.Columns[e.ColumnIndex].Name == "edit")
+            {
+                // mengambil ID pada data
+                idBandara = Convert.ToInt32(dataGridBandara.Rows[e.RowIndex].Cells["ID"].Value);
+                // ambil object bandara sesuai dengan ID yang dipilih
+                Bandara bandaraEdit = db.Bandaras.Find(idBandara);
+                // menampilkan data ke dalam textbox dan combobox
+                nameTxt.Text = bandaraEdit.Nama;
+                iataTxt.Text = bandaraEdit.KodeIATA;
+                cityTxt.Text = bandaraEdit.Kota;
+                addressTxt.Text = bandaraEdit.Alamat;
+
+                countryBox.SelectedValue = bandaraEdit.NegaraID;
+
+                terminalCount.Value = bandaraEdit.JumlahTerminal;
+
+                saveBtn.Text = "Update";
+            }
+            else if (dataGridBandara.Columns[e.ColumnIndex].Name == "hapus")
+            {
+                int id = Convert.ToInt32(dataGridBandara.Rows[e.RowIndex].Cells["ID"].Value);
+                var hasil = MessageBox.Show("Yakin ingin menghapus?", "Konfirmasi",
+                MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+                if (hasil == DialogResult.Yes)
+                {
+                    Bandara bandaraHapus = db.Bandaras.Find(id);
+                    db.Bandaras.Remove(bandaraHapus);
+                    db.SaveChanges();
+
+                    LoadBandara();
+                    ResetForm();
+                }
+            }
+        }
+
+        private void cancelBtn_Click(object sender, EventArgs e)
+        {
+            ResetForm();
         }
     }
 }

@@ -10,3 +10,29 @@ C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soa
 C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh Soal 1.csproj.CoreCompileInputs.cache
 C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh Soal 1.exe
 C:\Users\fafaf\Documents\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal 1\Contoh Soal 1\obj\Debug\Contoh Soal 1.pdb
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh Soal 1.csproj.AssemblyReference.cache
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form1Login.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\ContohSoal.Form10ListPenerbangan.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\ContohSoal.Form11BeliTiket.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\ContohSoal.Form12TiketSaya.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form2Register.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form3Dashboard.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form4Bandara.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form5Maskapai.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form6JadwalPenerbangan.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form7KodePromo.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Form8UbahStatusPenerbangan.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\ContohSoal.Form9CustomerMain.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh_Soal_1.Properties.Resources.resources
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh Soal 1.csproj.GenerateResource.cache
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh Soal 1.csproj.CoreCompileInputs.cache
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh Soal 1.exe
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh Soal 1.pdb
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\bin\Debug\Contoh Soal 1.exe.config
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\bin\Debug\Contoh Soal 1.exe
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\bin\Debug\Contoh Soal 1.pdb
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\bin\Debug\EntityFramework.dll
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\bin\Debug\EntityFramework.xml
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\my-workspace\business\github\awa\XI-RPL\XI RPL\WINDOWS FORM\Admin Form\Contoh Soal Main\Contoh Soal 1\obj\Debug\Contoh S.EBCF1F56.Up2Date

@@ -12,6 +12,10 @@ namespace Contoh_Soal_1
 {
     public partial class Form8UbahStatusPenerbangan : Form
     {
+
+        BandaraEntities db = new BandaraEntities();
+        private int idStatus;
+
         public Form8UbahStatusPenerbangan()
         {
             InitializeComponent();
@@ -40,8 +44,8 @@ namespace Contoh_Soal_1
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            Form5Maskapai maskapaiForm = new Form5Maskapai();
-            maskapaiForm.Show();
+            Form4Bandara bandaraForm = new Form4Bandara();
+            bandaraForm.Show();
             this.Close();
         }
 
@@ -87,20 +91,6 @@ namespace Contoh_Soal_1
             this.Close();
         }
 
-        private void label6_Click(object sender, EventArgs e)
-        {
-            Form8UbahStatusPenerbangan ubahStatusForm = new Form8UbahStatusPenerbangan();
-            ubahStatusForm.Show();
-            this.Close();
-        }
-
-        private void pictureBox7_Click(object sender, EventArgs e)
-        {
-            Form8UbahStatusPenerbangan ubahStatusForm = new Form8UbahStatusPenerbangan();
-            ubahStatusForm.Show();
-            this.Close();
-        }
-
         private void label7_Click(object sender, EventArgs e)
         {
             Form1Login loginForm = new Form1Login();
@@ -113,6 +103,36 @@ namespace Contoh_Soal_1
             Form1Login loginForm = new Form1Login();
             loginForm.Show();
             this.Close();
+        }
+
+        private void LoadStatus()
+        {
+            statusBox.DataSource = db.StatusPenerbangans.ToList();
+            statusBox.ValueMember = "ID";
+            statusBox.DisplayMember = "Nama";
+            statusBox.SelectedIndex = -1;
+        }
+
+        private void LoadData()
+        {
+            dataGridStatus.DataSource = db.PerubahanStatusJadwalPenerbangans.Select(s => new
+            {
+                s.ID,
+                s.JadwalPenerbanganID,
+                kodePenerbangan = s.JadwalPenerbangan.KodePenerbangan,
+                bandaraAwal = s.JadwalPenerbangan.Bandara.Nama,
+                bandaraTujuan = s.JadwalPenerbangan.Bandara1.Nama,
+                maskapai = s.JadwalPenerbangan.Maskapai.Nama,
+                tanggalKeberangkatan = s.JadwalPenerbangan.TanggalWaktuKeberangkatan,
+                durasiPenerbangan = (s.JadwalPenerbangan.DurasiPenerbangan / 60) + " Jam " + (s.JadwalPenerbangan.DurasiPenerbangan % 60) + " Menit ",
+                statusPenerbangan = s.StatusPenerbangan.Nama,
+                s.WaktuPerubahanTerjadi
+            }).ToList();
+        }
+
+        private void dataGridStatus_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

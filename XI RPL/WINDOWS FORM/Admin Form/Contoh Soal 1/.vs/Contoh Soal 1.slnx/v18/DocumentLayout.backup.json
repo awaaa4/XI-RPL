@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|c:\\my-workspace\\business\\github\\awa\\xi-rpl\\xi rpl\\windows form\\admin form\\contoh soal main\\contoh soal 1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE3B94-7301-4D12-A579-418123711A6F}|Contoh Soal 1\\Contoh Soal 1.csproj|solutionrelative:contoh soal 1\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form8UbahStatusPenerbangan.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form8UbahStatusPenerbangan.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form8UbahStatusPenerbangan.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form8UbahStatusPenerbangan.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form8UbahStatusPenerbangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:37:44.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4Bandara.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form4Bandara.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form4Bandara.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form4Bandara.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form4Bandara.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:36:46.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form6JadwalPenerbangan.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form6JadwalPenerbangan.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form6JadwalPenerbangan.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form6JadwalPenerbangan.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form6JadwalPenerbangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:35:24.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form7KodePromo.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form7KodePromo.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form7KodePromo.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form7KodePromo.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form7KodePromo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:35:07.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5Maskapai.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form5Maskapai.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form5Maskapai.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form5Maskapai.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form5Maskapai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:29:03.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2Register.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form2Register.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form2Register.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form2Register.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form2Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:22:25.394Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2Register.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form2Register.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form2Register.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form2Register.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Form2Register.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwC4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:20:56.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form9CustomerMain.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form9CustomerMain.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form9CustomerMain.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form9CustomerMain.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Form9CustomerMain.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:17:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form1.Designer.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form1.Designer.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Form1.Designer.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAawJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:14:39.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form1.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form1.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:11:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form10ListPenerbangan.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form10ListPenerbangan.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form10ListPenerbangan.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form10ListPenerbangan.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Form10ListPenerbangan.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:08:47.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form12TiketSaya.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form12TiketSaya.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form12TiketSaya.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form12TiketSaya.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Form12TiketSaya.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvygAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:08:40.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PenumpangControl.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\PenumpangControl.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\PenumpangControl.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\PenumpangControl.cs",
+              "RelativeToolTip": "Contoh Soal 1\\PenumpangControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:03:52.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form11BeliTiket.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form11BeliTiket.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form11BeliTiket.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form11BeliTiket.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Form11BeliTiket.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAuwFoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:03:31.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5Maskapai.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form5Maskapai.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form5Maskapai.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form5Maskapai.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Form5Maskapai.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAA7wLkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:35:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form3Dashboard.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form3Dashboard.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form3Dashboard.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Form3Dashboard.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:50:09.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form1.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form1.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:32:10.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form3Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form3Dashboard.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form3Dashboard.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form3Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:15:30.147Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Session.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Session.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Session.cs",
+              "RelativeToolTip": "Contoh Soal 1\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:42:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PenumpangControl.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\PenumpangControl.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\PenumpangControl.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\PenumpangControl.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\PenumpangControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:41:31.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form12TiketSaya.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form12TiketSaya.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form12TiketSaya.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form12TiketSaya.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form12TiketSaya.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:35:46.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form11BeliTiket.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form11BeliTiket.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form11BeliTiket.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form11BeliTiket.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form11BeliTiket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:35:36.864Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form9CustomerMain.cs [Design]",
+              "DocumentMoniker": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form9CustomerMain.cs",
+              "RelativeDocumentMoniker": "Contoh Soal 1\\Form9CustomerMain.cs",
+              "ToolTip": "C:\\my-workspace\\business\\github\\awa\\XI-RPL\\XI RPL\\WINDOWS FORM\\Admin Form\\Contoh Soal Main\\Contoh Soal 1\\Form9CustomerMain.cs [Design]",
+              "RelativeToolTip": "Contoh Soal 1\\Form9CustomerMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:35:10.194Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

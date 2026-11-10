@@ -19,7 +19,72 @@ namespace Contoh_Soal_1
 
         private void label2_Click(object sender, EventArgs e)
         {
+            Form4Bandara bandaraForm = new Form4Bandara();
+            bandaraForm.Show();
+            this.Close();
+        }
 
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            Form4Bandara bandaraForm = new Form4Bandara();
+            bandaraForm.Show();
+            this.Close();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            Form5Maskapai maskapaiForm = new Form5Maskapai();
+            maskapaiForm.Show();
+            this.Close();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            Form5Maskapai maskapaiForm = new Form5Maskapai();
+            maskapaiForm.Show();
+            this.Close();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            Form6JadwalPenerbangan jadwalForm = new Form6JadwalPenerbangan();
+            jadwalForm.Show();
+            this.Close();
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            Form6JadwalPenerbangan jadwalForm = new Form6JadwalPenerbangan();
+            jadwalForm.Show();
+            this.Close();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            Form7KodePromo kodePromoForm = new Form7KodePromo();
+            kodePromoForm.Show();
+            this.Close();
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            Form7KodePromo kodePromoForm = new Form7KodePromo();
+            kodePromoForm.Show();
+            this.Close();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+            Form8UbahStatusPenerbangan ubahStatusForm = new Form8UbahStatusPenerbangan();
+            ubahStatusForm.Show();
+            this.Close();
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            Form8UbahStatusPenerbangan ubahStatusForm = new Form8UbahStatusPenerbangan();
+            ubahStatusForm.Show();
+            this.Close();
         }
 
         private void label7_Click(object sender, EventArgs e)
